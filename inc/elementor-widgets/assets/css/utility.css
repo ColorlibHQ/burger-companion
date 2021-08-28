@@ -1,0 +1,39 @@
+/* -------------------------
+:: utility Class
+---------------------------- */
+.burger-pt-100 {
+    padding-top: 100px;
+}
+.burger-pt-80 {
+    padding-top: 80px;
+}
+.burger-pt-70 {
+    padding-top: 70px;
+}
+.burger-pt-60 {
+    padding-top: 60px;
+}
+.burger-pt-50 {
+    padding-top: 50px;
+}
+.burger-pt-30 {
+    padding-top: 30px;
+}
+.burger-pb-100 {
+    padding-bottom: 100px;
+}
+.burger-pb-80 {
+    padding-bottom: 80px;
+}
+.burger-pb-70 {
+    padding-bottom: 70px;
+}
+.burger-pb-60 {
+    padding-bottom: 60px;
+}
+.burger-pb-50 {
+    padding-bottom: 50px;
+}
+.burger-pb-30 {
+    padding-bottom: 30px;
+}
